@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fv3uly2x/WTbUNkcgYz/Tqu8a8ss+RAhu8wkjvheOtnngPW7coQP2az/WkV4kIwB1j+TPmSTGzHZBHd7MFZZ4g==",
+  "success": true,
+  "projectFilePath": "/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/Asynco.csproj",
+  "expectedPackageFiles": [
+    "/Users/olga.diakonova/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

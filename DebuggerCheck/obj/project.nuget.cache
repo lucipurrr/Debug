@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s868PNDN5ELlNi0dfpy/eafi3KBIMldLc7RmRjVFTFuRl5CvmS/l5vWoGOCw9nb2lKMqr49wCIhu9AMqUNFFDA==",
+  "success": true,
+  "projectFilePath": "/Users/olga.diakonova/RiderProjects/DebuggerCheck/DebuggerCheck/DebuggerCheck.csproj",
+  "expectedPackageFiles": [
+    "/Users/olga.diakonova/.nuget/packages/microsoft.netcore.app.ref/6.0.9/microsoft.netcore.app.ref.6.0.9.nupkg.sha512",
+    "/Users/olga.diakonova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.9/microsoft.aspnetcore.app.ref.6.0.9.nupkg.sha512",
+    "/Users/olga.diakonova/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.9/microsoft.netcore.app.host.osx-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

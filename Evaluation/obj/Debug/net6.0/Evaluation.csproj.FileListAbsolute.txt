@@ -1,0 +1,15 @@
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/bin/Debug/net6.0/Evaluation
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/bin/Debug/net6.0/Evaluation.deps.json
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/bin/Debug/net6.0/Evaluation.runtimeconfig.json
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/bin/Debug/net6.0/Evaluation.dll
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/bin/Debug/net6.0/Evaluation.pdb
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.csproj.AssemblyReference.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.AssemblyInfoInputs.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.AssemblyInfo.cs
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.csproj.CoreCompileInputs.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.dll
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/refint/Evaluation.dll
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.pdb
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/Evaluation.genruntimeconfig.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Evaluation/obj/Debug/net6.0/ref/Evaluation.dll

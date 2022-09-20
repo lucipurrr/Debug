@@ -1,0 +1,16 @@
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/bin/Debug/net5.0/Asynco
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/bin/Debug/net5.0/Asynco.deps.json
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/bin/Debug/net5.0/Asynco.runtimeconfig.json
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/bin/Debug/net5.0/Asynco.runtimeconfig.dev.json
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/bin/Debug/net5.0/Asynco.dll
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/bin/Debug/net5.0/Asynco.pdb
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.csproj.AssemblyReference.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.AssemblyInfoInputs.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.AssemblyInfo.cs
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.csproj.CoreCompileInputs.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.dll
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/refint/Asynco.dll
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.pdb
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/Asynco.genruntimeconfig.cache
+/Users/olga.diakonova/RiderProjects/DebuggerCheck/Asynco/obj/Debug/net5.0/ref/Asynco.dll
